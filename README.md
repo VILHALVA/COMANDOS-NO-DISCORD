@@ -19,7 +19,7 @@
 
 ## EXECUTANDO O PROJETO:
 1. **Editar o código:**
-   - Configure o arquivo `CODIGO/config.json` com o token do seu bot e o prefixo desejado para os comandos (`!` no exemplo).
+   - Configure o arquivo `CODIGO/config.json` com o token do seu bot, que podem ser obtidas no [Discord Developer Portal](https://discord.com/developers/applications), e o prefixo desejado para os comandos (`!` no exemplo).
 
 2. **Instalando as Depêndencias:**
    - Para instalar as dependências listadas no arquivo "package.json", você pode usar o comando `npm install` no terminal. Certifique-se de estar no diretório do seu projeto onde o arquivo "package.json" está localizado (`CODIGO`). O npm irá ler o arquivo "package.json" e instalar todas as dependências listadas nele. 
