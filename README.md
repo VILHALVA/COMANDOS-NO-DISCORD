@@ -29,9 +29,14 @@
    ```
 
 3. **Inicie o Bot:**
-   - Execute o bot do Telegram iniciando-o com o seguinte comando:
+   - Para usar o `NODE`, inicie o bot com o seguinte comando:
     ```bash
     npm start
+    ```
+
+    - Para usar o `NODEMON`, inicie o bot com o seguinte comando:
+    ```bash
+    npm test
     ```
 
 4. **No Discord**:
